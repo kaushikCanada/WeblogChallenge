@@ -3,6 +3,8 @@ This is an interview challenge for Paytm Labs. Please feel free to fork. Pull Re
 
 The challenge is to make make analytical observations about the data using the distributed tools below.
 
+To run this first do python3 -m venv env and then pip install -r requirements.txt
+
 ## Processing & Analytical goals:
 
 1. Sessionize the web log by IP. Sessionize = aggregrate all page hits by visitor/IP during a session.
