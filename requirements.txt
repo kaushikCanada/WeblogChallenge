@@ -1,0 +1,12 @@
+pandas
+scikit-learn
+interpret
+seaborn
+streamlit
+xgboost
+lightgbm
+pandas-profiling
+pylint
+pyspark
+findspark
+black
